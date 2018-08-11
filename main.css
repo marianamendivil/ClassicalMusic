@@ -64,7 +64,7 @@ nav > div {
 	padding-left: 2rem; 
 }
 
-.song {
+.song, .artist, .subtitleArtist {
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -74,6 +74,10 @@ nav > div {
 	width: 125px;
 	height: 125px;
 	padding-top: 1.2rem;
+}
+
+.artistDescription {
+	width: 260px;
 }
 
 .artistDescription, .typeDescription {
@@ -120,4 +124,8 @@ iframe {
 
 .manufacturers > a {
 	padding: 0.5rem;
+}
+
+.lastI {
+	padding-bottom: 1.5rem;
 }

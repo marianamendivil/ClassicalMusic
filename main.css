@@ -4,7 +4,7 @@ body {
     padding: 0;
 }
 
-ul {
+nav > ul {
 	list-style: none;
 }
 
@@ -129,3 +129,11 @@ iframe {
 .lastI {
 	padding-bottom: 1.5rem;
 }
+
+.song > iframe {
+	padding-right: 64px;
+	margin-top: 1.5em;
+	width: 200px;
+	height: 200px;
+}
+
